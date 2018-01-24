@@ -1,4 +1,4 @@
-# jenkinsfile-watcher
+# jenkinsfile-auto-tester
 
 This is a convenience script to help speed up the development and testing of jenkinsfile pipelines.
 
